@@ -1,0 +1,270 @@
+﻿
+
+.ventana {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.form {
+    width: 1448px;
+    height: 667px;
+    padding: 15px;
+    background-color: #fff;
+    color: #666;
+    top: 1%;
+    left: 1%;
+    position: absolute;
+}
+
+.ventana_msj {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.form_msj {
+    width: 518px;
+    height: 324px;
+    padding: 50px;
+    background-color: #fff;
+    color: #666;
+    top: 15%;
+    left: 5%;
+    position: absolute;
+    margin-left: 315px;
+    margin-top: -70px;
+}
+
+
+
+.ventana_msj_obs {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.form_msj_obs {
+    width: 280px;
+    height: 150px;
+    padding:65px;
+    background-color: #fff;
+    color: #666;
+    top: 20%;
+    left: 15%;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+
+
+.ventana_msj2 {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.form_msj2 {
+    width: 518px;
+    height: 324px;
+    padding: 50px;
+    background-color: #fff;
+    color: #666;
+    top: 15%;
+    left: 5%;
+    position: absolute;
+    margin-left: 315px;
+    margin-top: -70px;
+}
+
+
+.btn-man {
+    width: 140px;
+    height: 40px;
+    border-color: #808080;
+    background-color: #fff;
+    font-family: Calibri Light;
+    font-size: 12px;
+}
+
+.cerrar {
+    font-weight: 900;
+    text-align: right;
+}
+
+.cerrar a {
+        color: red;
+    }
+
+ventana_ConFac {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.form_Confac {
+  width: 500px;
+    height: 400px;
+    padding: 15px;
+    background-color: #DCDCDC;
+    color: #666;
+    top: 7%;
+    left: 28%;
+    position: absolute;
+}
+.ventana_flujo {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.ventana_buscarpersonal {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+
+
+.form_flujo {
+    width: 1149px;
+    height: 448px;
+    padding: 15px;
+    background-color: #fff;
+    color: #666;
+    top: 1%;
+    left: 7%;
+    position: absolute;
+}
+
+
+
+
+.form_buscarpersonal {
+    width: 800px;
+    height: 500px;
+    padding: 15px;
+    background-color: #fff;
+    color: #666;
+    top: 7%;
+    left: 28%;
+    position: absolute;
+}
+
+.ventana_adenda {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.form_adenda {
+    width: 600px;
+    height: 259px;
+    padding: 15px;
+    background-color: #fff;
+    color: #666;
+    top: 10%;
+    left: 30%;
+    position: absolute;
+}
+
+.ventana_msj_01 {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.form_msj_01 {
+    width: 430px;
+    height: 360px;
+    padding: 50px;
+    background-color: #fff;
+    color: #666;
+    top: 17%;
+    left: 14%;
+    position: absolute;
+    margin-left: 315px;
+    margin-top: -90px;
+}
+
+
+.ventana_grid{
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    position: fixed;
+    background-image: url(../Imagenes/bg-modal.png);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.form_grid{
+    width: 400px;
+    height: 400px;
+    padding: 50px;
+    background-color: #fff;
+    color: #666;
+    top: 15%;
+    left: 5%;
+    position: absolute;
+    margin-left: 315px;
+    margin-top: -70px;
+}
+
+
+table thead {
+  color: #fff;
+  background-color: #e06a6a;
+}
+
+table th {
+  color: #fff;
+  background-color: #e06a6a;
+}
